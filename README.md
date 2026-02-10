@@ -12,21 +12,21 @@ https://bloodstone.cc
 
 ## 🧪 What I Actually Do
 
-Within a team, I usually take the role of a tester  
+Within a team, I usually take the role of a tester —  
 not the checkbox kind, but the one who actively tries to break the product.
 
-Across all stages of support and maintenance for platforms like  
-**[gamesense.pub](https://gamesense.pub) / [skeet.cc](https://skeet.cc)**, my focus has been on real behavior, not ideal scenarios.
+My work has been focused specifically on **Lua script Bloodstone LLC (bs.lua)** developed *for* platforms such as  
+**[gamesense.pub](https://gamesense.pub) / [skeet.cc](https://skeet.cc)**   
+not the platforms themselves.
 
-I question assumptions early.  
-I stress logic paths that are rarely exercised.  
-I intentionally misuse systems to see where they bend and where they snap.
+Across all stages of support and maintenance for **Lua script**,  
+my focus has been on real runtime behavior rather than ideal execution paths.
 
-What happens when the environment changes mid-runtime?  
-When callbacks arrive out of order?  
-When state desynchronizes but execution continues?
+I challenge assumptions early, stress rarely exercised logic paths,  
+and intentionally misuse systems to observe how they fail under pressure.
+My goal is to identify unstable states and edge cases  
+before they surface for end users.
 
-My job is to find those moments before users do.
 
 Development was carried out in close collaboration with:
 - [Akzor](https://github.com/akzor) 
