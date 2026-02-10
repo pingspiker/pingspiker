@@ -12,7 +12,7 @@ https://bloodstone.cc
 
 ## 🧪 What I Actually Do
 
-Within a team, I usually take the role of a tester —  
+Within a team, I usually take the role of a tester   
 not the checkbox kind, but the one who actively tries to break the product.
 
 My work has been focused specifically on **Lua script Bloodstone LLC (bs.lua)** developed *for* platforms such as  
