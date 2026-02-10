@@ -41,7 +41,7 @@ it was whether the script remained predictable under pressure.
 I keep communication simple and direct.
 
 - **Telegram** — [@tanaru](https://t.me/tanaru)
-- **Discord** — [@tanaru](https://discord.com))
+- **Discord** — [@tanaru](https://discord.com)
 
 If the message is clear and technical — I’ll reply.  
 If it isn’t — I probably won’t.
