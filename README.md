@@ -29,7 +29,6 @@ before they surface for end users.
 
 
 Development was carried out in close collaboration with:
-- [Akzor](https://github.com/akzor) 
 - [Shunko](https://github.com/ccsimplyspolit)  
 
 The priority was never public presentation  
